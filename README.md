@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Harshil Thummar</h1>
@@ -32,48 +32,24 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="K8s" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" />
-      <br>Jenkins
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="K8s"/><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform"/><br>Terraform</td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" alt="Ansible" />
-      <br>Ansible
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="Actions" />
-      <br>CI/CD
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" />
-      <br>Monitoring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br>Jenkins</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br>Grafana</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="Actions"/><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40" alt="Sonar"/><br>SonarQube</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" width="40" height="40" alt="n8n"/><br>n8n</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg" width="40" height="40" alt="JMeter"/><br>JMeter</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cloud-21.svg" width="40" height="40" alt="Duplo"/><br>DuploCloud</td>
   </tr>
 </table>
 
@@ -82,18 +58,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilThummar&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilThummar&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilThummar&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilThummar&theme=dracula&hide_border=false" alt="Streak" height="180" />
 </div>
 
 <br/>
 
+### 🏆 GitHub Trophies
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15" alt="Trophies" />
 </div>
 
 ---
