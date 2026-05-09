@@ -32,24 +32,22 @@
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/><br>Azure</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="K8s"/><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform"/><br>Terraform</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40"/><br>Terraform</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/><br>Jenkins</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/><br>Linux</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br>Jenkins</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br>Grafana</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="Actions"/><br>GitHub Actions</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br>Linux</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40" alt="Sonar"/><br>SonarQube</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" width="40" height="40" alt="n8n"/><br>n8n</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg" width="40" height="40" alt="JMeter"/><br>JMeter</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cloud-21.svg" width="40" height="40" alt="Duplo"/><br>DuploCloud</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/><br>Grafana</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40"/><br>Actions</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/><br>SonarQube</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" width="40" height="40"/><br>n8n</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" height="40"/><br>JMeter</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cloud-21.svg" width="40" height="40"/><br>DuploCloud</td>
   </tr>
 </table>
 
@@ -66,11 +64,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15&row=2&column=5" alt="Trophies" />
 </div>
 
 ---
-
-<p align="center">
-  ✨ <i>"Automating the world, one cluster at a time."</i> ✨
-</p>
