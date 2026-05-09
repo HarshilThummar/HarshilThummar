@@ -18,46 +18,35 @@
 
 ---
 
-### ⚡ About Me
-
-- 🔭 I’m currently working on **High-Availability Cloud Infrastructure**
-- ☁️ Specializing in **AWS, Kubernetes, and Terraform**
-- 🛠️ 2.5+ years of production experience in **DevOps & Cloud Orchestration**
-- ✍️ I write technical articles on [Medium](https://medium.com/@harshilsays) and [Blogger](https://harshil-says.blogspot.com/)
-- 🎯 Goal: Building scalable, resilient, and automated systems
-
----
-
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/><br>Azure</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40"/><br>Terraform</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/><br>Jenkins</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/><br>Linux</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/><br>Grafana</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40"/><br>Actions</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/><br>SonarQube</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" width="40" height="40"/><br>n8n</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" height="40"/><br>JMeter</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cloud-21.svg" width="40" height="40"/><br>DuploCloud</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,jenkins,linux&perline=7" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,bash,githubactions,py,ansible,mysql,mongodb&perline=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilThummar&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilThummar&theme=dracula&hide_border=false" alt="Streak" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilThummar&theme=dracula" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilThummar&theme=dracula&hide_border=false" height="180" />
 </div>
 
 <br/>
@@ -66,5 +55,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15&row=2&column=5" alt="Trophies" />
 </div>
-
----
