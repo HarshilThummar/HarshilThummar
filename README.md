@@ -55,3 +55,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15&row=2&column=5" alt="Trophies" />
 </div>
+
+### 📜 Certifications
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az400.png" width="280" alt="AZ-400" />
+  <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az305.png" width="280" alt="AZ-305" />
+  <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az104.png" width="280" alt="AZ-104" />
+</div>
