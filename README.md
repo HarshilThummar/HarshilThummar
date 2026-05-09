@@ -62,9 +62,9 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az400.png" width="110" alt="AZ-400" />
+        <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az104.png" width="110" alt="AZ-104" />
         <br />
-        <b>AZ-400</b>
+        <b>AZ-104</b>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az305.png" width="110" alt="AZ-305" />
@@ -72,10 +72,10 @@
         <b>AZ-305</b>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az104.png" width="110" alt="AZ-104" />
+        <img src="https://raw.githubusercontent.com/HarshilThummar/HarshilThummar/main/images/az400.png" width="110" alt="AZ-400" />
         <br />
-        <b>AZ-104</b>
-      </td>
+        <b>AZ-400</b>
+      </td>      
     </tr>
   </table>
 </div>
