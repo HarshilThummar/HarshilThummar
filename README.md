@@ -30,9 +30,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/sonarqube" height="42" alt="SonarQube" />
+  <img src="https://cdn.simpleicons.org/n8n" height="42" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/apachejmeter" height="42" alt="Apache JMeter" />
 </div>
 
 ---
