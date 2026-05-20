@@ -30,9 +30,9 @@
 <br/>
 
 <div align="center">
-  <img src="./images/sonarqube.png" width="48" />
-  <img src="./images/n8n.png" width="48" />
-  <img src="./images/jmeter.png" width="48" />
+  <img src="./images/sonarqube.png" width="48" height="48" style="border-radius:10px; margin:4px;" />
+  <img src="./images/n8n.png" width="48" height="48" style="border-radius:10px; margin:4px;" />
+  <img src="./images/jmeter.png" width="48" height="48" style="border-radius:10px; margin:4px;" />
 </div>
 
 ---
