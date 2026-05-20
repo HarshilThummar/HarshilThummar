@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Harshil Thummar</h1>
-<h3 align="center">DevOps Engineer & Cloud Architect</h3>
+<h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
   <a href="https://harshilthummar.in/"><b>Portfolio</b></a> •
