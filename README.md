@@ -30,9 +30,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/sonarqube" height="42" alt="SonarQube" />
-  <img src="https://cdn.simpleicons.org/n8n" height="42" alt="n8n" />
-  <img src="https://cdn.simpleicons.org/apachejmeter" height="42" alt="Apache JMeter" />
+  <img src="./images/sonarqube.png" width="48" />
+  <img src="./images/n8n.png" width="48" />
+  <img src="./images/jmeter.png" width="48" />
 </div>
 
 ---
