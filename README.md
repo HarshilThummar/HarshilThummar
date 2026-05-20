@@ -30,21 +30,9 @@
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td bgcolor="#1e1f29" align="center" width="56" height="56" style="border-radius:12px">
-        <img src="./images/sonarqube.png" width="40" height="40" />
-      </td>
-      &nbsp;
-      <td bgcolor="#1e1f29" align="center" width="56" height="56" style="border-radius:12px">
-        <img src="./images/n8n.png" width="40" height="40" />
-      </td>
-      &nbsp;
-      <td bgcolor="#1e1f29" align="center" width="56" height="56" style="border-radius:12px">
-        <img src="./images/jmeter.png" width="40" height="40" />
-      </td>
-    </tr>
-  </table>
+  <img src="./images/sonarqube.png" width="48" height="48" />
+  <img src="./images/n8n.png" width="48" height="48" />
+  <img src="./images/jmeter.png" width="48" height="48" />
 </div>
 
 ---
