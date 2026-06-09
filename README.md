@@ -53,7 +53,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15&row=2&column=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshilThummar&theme=dracula&no-bg=true&no-frame=false&margin-w=15&row=2&column=5&t=1" alt="Trophies" />
 </div>
 
 
